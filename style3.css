@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+
+    border: 1px solid rgb(87, 87, 255);
+    width: 100%;
+    height: 5%;
+    background-color:rgb(87, 87, 255);
+}
+
+#i1 {
+    font-size: 50px;
+    margin-left: 3%;
+}
+
+i {
+    font-size: 50px;
+}
+
+#input {
+    margin-left: 73%;
+    background-color: rgb(87, 87, 255);
+    border: none;
+    border: 1px solid black;
+    
+    border-radius: 10px;
+    padding: 10px 10px 5px 5px;
+}
+
+.div2 {
+    border: 1px solid rgb(125, 116, 248);
+    width: 100%;
+    height: 100px;
+    background-color: rgb(144, 179, 255);
+}
+
+.label1 {
+    margin-left: 3%;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(66, 66, 66);
+}
+
+#logo {
+    padding: 5px 10px 5px 10px; 
+    font-size: 30px;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+
+#label2 {
+    margin-left: 54%;
+    font-size: 40px;
+    color: rgb(0, 0, 0)
+    
+}
+
+#label3 {
+    font-size: 40px;
+    color: rgb(4, 0, 255);
+    margin-left: 3%;
+}
+
+#label4 {
+    font-size: 40px;
+    color: black;
+    
+    margin-left: 3%;
+}
+
+#video1 {
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+#labelvid1 {
+    margin-left: 10%;
+    margin-top: 1%;
+    font-size: 40px;
+}
+
+#audio1 {
+    
+    margin-left: 5%;
+    
+    background-color: black;
+}
+
+
